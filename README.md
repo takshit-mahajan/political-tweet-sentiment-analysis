@@ -36,28 +36,4 @@ To explore and analyze the sentiment of tweets mentioning BJP to:
 
 ---
 
-## 📸 Sample Visualizations
 
-| Sentiment Distribution | Word Clouds |
-|------------------------|-------------|
-| ![Sentiment Chart](images/sentiment_bar_pie.png) | ![Word Cloud](images/wordclouds.png) |
-
-*(Save your output plots in a `/images` folder to use these.)*
-
----
-
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/yourusername/bjp-twitter-sentiment-analysis.git
-cd bjp-twitter-sentiment-analysis
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the analysis
-python sentiment_analysis.py
