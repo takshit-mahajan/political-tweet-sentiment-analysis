@@ -80,3 +80,5 @@ Sentiment trends over time
 Geotagged tweets
 
 Bot detection or influencer analysis
+
+Helping the survey teams
